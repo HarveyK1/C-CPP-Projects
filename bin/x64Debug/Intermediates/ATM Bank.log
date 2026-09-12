@@ -1,0 +1,6 @@
+﻿  Account.cpp
+C:\Dev\1. Personal-Repos\ATM Bank\src\core\Account.cpp(85,23): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Dev\1. Personal-Repos\ATM Bank\src\core\Account.cpp(89,28): warning C4804: '>=': unsafe use of type 'bool' in operation
+C:\Dev\1. Personal-Repos\ATM Bank\src\core\Account.cpp(106,21): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Dev\1. Personal-Repos\ATM Bank\src\core\Account.cpp(110,26): warning C4804: '>=': unsafe use of type 'bool' in operation
+  ATM Bank.vcxproj -> C:\Dev\1. Personal-Repos\ATM Bank\bin\x64Debug\ATM Bank.exe
